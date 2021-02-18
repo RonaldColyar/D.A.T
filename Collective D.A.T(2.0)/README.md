@@ -1,0 +1,1 @@
+This is a simple tcp chat designed for the D.A.T(Device Analyzation Tool) for those who have acess to the tool to chat and share information. Using a client server model.(command line)
